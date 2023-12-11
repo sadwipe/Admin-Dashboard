@@ -273,3 +273,7 @@ a {
   margin-top: 10px;
   color: rgb(89, 89, 89);
 }
+
+.card-icons > img {
+  cursor: pointer;
+}
